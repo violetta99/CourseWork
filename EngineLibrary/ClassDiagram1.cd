@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="UILibrary.Backgrounds.ColorBackground" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UILibrary.Backgrounds.NinePartsTextureBackground" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="12.5" Width="2.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UILibrary.Backgrounds.TextureBackground" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="12.5" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UILibrary.Containers.UIMarginContainer" Collapsed="true">
+    <Position X="29" Y="15.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Containers.UIMultiElementsContainer" Collapsed="true">
+    <Position X="24.75" Y="13.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Containers.UISequentialContainer" Collapsed="true">
+    <Position X="24.5" Y="15.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Containers.UISingleElementContainer" Collapsed="true">
+    <Position X="30" Y="13.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Drawing.DecodedNinePartsBitmap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="11.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UILibrary.Drawing.DrawingContext" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UILibrary.Drawing.NinePartsBitmap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="UILibrary.Elements.UIButton" Collapsed="true">
+    <Position X="31.25" Y="15.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Elements.UIPanel" Collapsed="true">
+    <Position X="23" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Elements.UIProgressBar" Collapsed="true">
+    <Position X="26.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Elements.UIText" Collapsed="true">
+    <Position X="28.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.UIElement" Collapsed="true">
+    <Position X="27" Y="12.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="UILibrary.Backgrounds.IBackground" Collapsed="true">
+    <Position X="32.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

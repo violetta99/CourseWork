@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLibrary.Components.ArrowComponent">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\ArrowComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Components.ColliderComponent">
+    <Position X="16.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEAAAAAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\ColliderComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Components.EnemyComponent">
+    <Position X="11.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEgAAAABAAEAAABAAECABAABAAAAAAAAAA=</HashCode>
+      <FileName>Components\EnemyComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Components.PhysicsComponent">
+    <Position X="13.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAIIAABBAAACAAggAAAgAAAICAAAAAA=</HashCode>
+      <FileName>Components\PhysicsComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Components.PlayerComponent">
+    <Position X="18.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEEACAAABAEEAACEAACAAAAAAAAAAQAAQA=</HashCode>
+      <FileName>Components\PlayerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Components.ReloadComponent">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAiAAAAAAAAAAAAAAAEABAIAAAAAAAAAAA=</HashCode>
+      <FileName>Components\ReloadComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Components.VisibleComponent">
+    <Position X="15" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAABAgAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Components\VisibleComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuckGame.Program" Collapsed="true">
+    <Position X="10.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Properties.Resources" Collapsed="true">
+    <Position X="12.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Properties.Settings" Collapsed="true">
+    <Position X="10.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scenes.GameScene">
+    <Position X="8" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQAAAAAAAAAAgCAEBAACAAYAgYAAAqAAAACAAIAQAA=</HashCode>
+      <FileName>Scenes\GameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scenes.MenuScene">
+    <Position X="9.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAgAAAAAAAAAAAAAoAAAAAMAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Scenes\MenuScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Arrows.Arrow">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAgAgBAAAAAAAAAAAAAAAAAAABACKAAAAgAQ=</HashCode>
+      <FileName>Scripts\Arrows\Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Arrows.PoisonArrow">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Scripts\Arrows\PoisonArrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Bonuses.HealthBonus">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACCAAgAAAA=</HashCode>
+      <FileName>Scripts\Bonuses\HealthBonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Bonuses.StandartArrowBonus">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAACCAAgAAAA=</HashCode>
+      <FileName>Scripts\Bonuses\StandartArrowBonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Game.BowShoot">
+    <Position X="20.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAIAEBgAAgBAAAAAAAAABggIAAAAAAQAACAABAAAA=</HashCode>
+      <FileName>Scripts\Game\BowShoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Game.Enemy">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQGAAFAAAAAAAABAAAAAEAIQIAAAAAAAACCAAAAAAE=</HashCode>
+      <FileName>Scripts\Game\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Game.PlayerMovement">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAACAAAAAABgAAEAAAAAAGDIAAAAgA=</HashCode>
+      <FileName>Scripts\Game\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Utils.ColliderScript">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAGCAAAAAAA=</HashCode>
+      <FileName>Scripts\Utils\ColliderScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Utils.PhysicsScript">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAA=</HashCode>
+      <FileName>Scripts\Utils\PhysicsScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Utils.ReloadScript">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Scripts\Utils\ReloadScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Scripts.Utils.VisibleScript">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Scripts\Utils\VisibleScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UILibrary.Containers.UIMarginContainer">
+    <Position X="20.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Containers.UIMultiElementsContainer">
+    <Position X="14" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Containers.UISequentialContainer">
+    <Position X="12.25" Y="17.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="UILibrary.Containers.UISequentialContainer.Alignment" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Containers.UISingleElementContainer">
+    <Position X="19.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Elements.UIButton">
+    <Position X="18.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Elements.UIPanel">
+    <Position X="12.25" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Elements.UIProgressBar">
+    <Position X="15.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.Elements.UIText">
+    <Position X="17.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UILibrary.UIElement">
+    <Position X="16.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Scripts.Script" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Animation.Animation">
+    <Position X="15" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Animation.SmoothAnimation">
+    <Position X="15" Y="13.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Animation.SmoothTransition">
+    <Position X="6.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Animation.Transition">
+    <Position X="6.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Collisions.BoxCollision">
+    <Position X="18.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Collisions.ObjectCollision">
+    <Position X="20.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Collisions.RayCollision">
+    <Position X="20.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Collisions.SphereCollision">
+    <Position X="22.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Components.ObjectComponent" Collapsed="true">
+    <Position X="13.25" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EngineLibrary.Game.Scene">
+    <Position X="9" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EngineLibrary.Scripts.KeyboardListenerScript">
+    <Position X="20.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
